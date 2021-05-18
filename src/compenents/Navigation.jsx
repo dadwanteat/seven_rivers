@@ -24,20 +24,29 @@ function Navigation(props) {
               </li>
               <li
                 class={`nav-item  ${
-                  props.location.pathname === "/about" ? "active" : ""
+                  props.location.pathname === "/businesses" ? "active" : ""
                 }`}
               >
-                <Link class="nav-link" to="/about">
-                  About
+                <Link class="nav-link" to="/businesses">
+                  Businesses
                 </Link>
               </li>
               <li
                 class={`nav-item  ${
-                  props.location.pathname === "/contact" ? "active" : ""
+                  props.location.pathname === "/endUser" ? "active" : ""
                 }`}
               >
-                <Link class="nav-link" to="/contact">
-                  Contact
+                <Link class="nav-link" to="/endUser">
+                  End User
+                </Link>
+              </li>
+              <li
+                class={`nav-item  ${
+                  props.location.pathname === "/visitingGuest" ? "active" : ""
+                }`}
+              >
+                <Link class="nav-link" to="/visitingGuest">
+                  Visiting/Guest
                 </Link>
               </li>
             </ul>
