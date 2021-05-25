@@ -37,7 +37,7 @@ function Navigation(props) {
                 }`}
               >
                 <Link class="nav-link" to="/endUser">
-                  End User
+                  End-User
                 </Link>
               </li>
               <li

@@ -13,12 +13,20 @@ function Home() {
             />
           </div>
           <div class="col-lg-5">
-            <h1 class="font-weight-light">Home</h1>
+          <br></br>
+            <h3 class="font-weight-light">Seven Rivers Networks</h3>
             <p>
-              Lorem Ipsum is simply dummy text of the printing and typesetting
-              industry. Lorem Ipsum has been the industry's standard dummy text
-              ever since the 1500s, when an unknown printer took a galley of
-              type and scrambled it to make a type specimen book.
+              From Astoria to Pacific City. <br></br>
+              <br></br>
+              We meet all of your Computing, network security and business continuity needs;<br></br>
+              Desktop support, back-ups and disaster planning, network security, diverse internet connectivity, point of sale systems, security and camera systems and backup power.
+              <br></br>
+              <br></br>
+              Helping you plan for the technical challenges of life and business on the North Oregon Coast!
+              <br></br>
+              <br></br>
+              We're local, so no travel time from the Portland Area.
+              20+ years in technology, and 10+ years on the North Coast.
             </p>
           </div>
         </div>
