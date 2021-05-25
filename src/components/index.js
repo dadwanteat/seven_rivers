@@ -3,4 +3,4 @@ export { default as Footer } from "./Footer";
 export { default as Home } from "./Home";
 export { default as About } from "./Businesses";
 export { default as Contact } from "./EndUser";
-export { default as Contact } from "./Visiting";
+// export { default as Visiting } from "./Visiting";
